@@ -8,17 +8,6 @@ using System.Threading;
 
 namespace KCDataDownloader
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
-
-
-        }
-
-
-    }
 
     static public class Downloader
     {
